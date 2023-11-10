@@ -1,5 +1,5 @@
 import logo from './Globologo.png'
-import './App.css'
+import './main-page.css'
 
 //components are arguments that are passed into the component
 
